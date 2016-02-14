@@ -1,0 +1,28 @@
+name: Kulta ja Pupsik
+favicon: null
+layout_spectrum: 0.9378958735615015
+typography_spectrum: 0.10098416032269597
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.517775577493012
+  lightness: 0.07911729626357555
+  saturation: 0.8460433781147003
+  rhythmicContrast: 0.6893828508909792
+purpose: []
